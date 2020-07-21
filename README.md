@@ -1,6 +1,6 @@
-# API de Publicador IoT com o Google Cloud
+# API de Publisher IoT com o Google Cloud
 
-Na arquitetura de software, publisher ou publicador, faz parte do padão de projeto publish–subscribe que é um padrão de mensagens em que os remetentes de mensagens, chamados publishers, não programam as mensagens a serem enviadas diretamente para receptores específicos, chamados subscribers, mas categorizam as mensagens publicadas em classes sem o conhecimento de quais assinantes, se houver, pode ser. Da mesma forma, os assinantes manifestam interesse em uma ou mais classes e recebem apenas mensagens de seu interesse, sem o conhecimento de quais editores, se houver, existem.
+Na arquitetura de software, publisher, faz parte do padão de projeto publish–subscribe que é um padrão de mensagens em que os remetentes de mensagens, chamados publishers, não programam as mensagens a serem enviadas diretamente para receptores específicos, chamados subscribers, mas categorizam as mensagens publicadas em classes sem o conhecimento de quais assinantes, se houver, pode ser. Da mesma forma, os assinantes manifestam interesse em uma ou mais classes e recebem apenas mensagens de seu interesse, sem o conhecimento de quais editores, se houver, existem.
 
 ## Setup
 
